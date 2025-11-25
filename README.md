@@ -312,3 +312,4 @@ MIT License - feel free to use for your food rescue initiative!
 Every kg of food rescued = ~2.5 kg CO₂ avoided + ~2 meals provided
 
 Let's reduce waste and feed communities together! 💚
+# food-rescue-platform
